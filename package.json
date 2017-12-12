@@ -12,5 +12,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KangMin-gu/nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KangMin-gu/nodejs/issues"
+  },
+  "homepage": "https://github.com/KangMin-gu/nodejs#readme"
 }
